@@ -5,7 +5,8 @@ Com IO // COM port for Input and Output
 <p>
   <b>Version: 1.0</b>
 </p>
-<p><h1><b>Platform:Windows</b></h1></p>
+<p><h1><b>Platform: Windows</b></h1></p>
+ <p><h1><b>Requirements: C/C++<b></h1></p>
  <p><h1><b>Description: <b></h1></p>
  <h3>
    Быстрая поддержка записи для COM порта. Данные передаются за счет использования системных ресурсов операционной системы Microsoft Windows. 
